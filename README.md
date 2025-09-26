@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://mamath79.github.io">
-    <img src="assets/banner_2000x400.jpg"
+    <img src="assets/banner_github_readme.jpg"
          alt="Mathieu Vieillefont — Python Developer & Audio Engineer"
          style="max-width:100%; border-radius:12px;">
   </a>
