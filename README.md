@@ -1,5 +1,13 @@
 <!-- Profile README for github.com/Mamath79 -->
 
+<p align="center">
+  <a href="https://mamath79.github.io">
+    <img src="assets/banner_2000x400.jpg"
+         alt="Mathieu Vieillefont — Python Developer & Audio Engineer"
+         style="max-width:100%; border-radius:12px;">
+  </a>
+</p>
+
 <h1 align="center">Hi, I'm Mathieu — Python Developer & Audio Engineer</h1>
 
 <p align="center">
